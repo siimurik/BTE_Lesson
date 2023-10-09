@@ -1,5 +1,6 @@
 # BTE
-Files for the master thesis on the topic named:
+Files for the interactive session on neutron transport:
+
 ## Development of a simplified Monte Carlo Neutron Transport routine in Python
 
 List of all the Python packages used:
