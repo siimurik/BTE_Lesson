@@ -1,7 +1,7 @@
 # BTE
 Files for the interactive session on neutron transport:
 
-## Development of a simplified Monte Carlo Neutron Transport routine in Python
+## Interactive session on neutron transport using Python
 
 List of all the Python packages used:
 * [re](https://docs.python.org/3/library/re.html)
